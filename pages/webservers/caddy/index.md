@@ -2,7 +2,7 @@
 
 <!-- position: 2 -->
 
-Bludit supports [Caddy]([https://nginx.org/en/](https://caddyserver.com/)), and we actually recommend it as a web server.
+Bludit supports [Caddy](https://caddyserver.com/), and we actually recommend it as a web server.
 
 Caddy has its own `router` which handles all requests and responses. The idea is to redirect all requests to the `index.php` file.
 
